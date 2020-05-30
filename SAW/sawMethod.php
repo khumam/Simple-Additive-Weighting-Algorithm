@@ -142,7 +142,7 @@ class SawMethod
      * 
      * @return array
      */
-    public function getFinalResut()
+    public function getFinalResult()
     {
         $this->sort();
         return $this->finalResult;

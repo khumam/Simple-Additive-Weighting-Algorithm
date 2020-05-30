@@ -29,5 +29,5 @@ $data = [
 $saw = new SawMethod($data, $criteria, $dataName);
 echo $saw->getResultName() . "\n";
 echo $saw->getResult() . "\n";
-print_r($saw->getFinalResut());
+print_r($saw->getFinalResult());
 print_r($saw->getDataWithName());

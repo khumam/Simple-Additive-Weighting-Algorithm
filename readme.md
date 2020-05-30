@@ -98,7 +98,7 @@ Berikut beberapa fungsi untuk menampilkan hasilnya
 ```php
 $saw->getResultName();   // Menampilkan nama terpilih (string)
 $saw->getResult();       // Menampilkan nilai terpilih (float)
-$saw->getFinalResut();   // Menampilkan semua data terurut (array)
+$saw->getFinalResult();   // Menampilkan semua data terurut (array)
 $saw->getDataWithName(); // Menampilkan semua data terurut dengan masing-masing namanya (array)
 ```
 
